@@ -1,0 +1,6 @@
+open
+read
+send_file
+render_template
+serve
+render_to_string

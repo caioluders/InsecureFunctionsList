@@ -1,1 +1,15 @@
 eval
+os.popen
+os.system
+commands.getstatusoutput
+commands.getoutput
+commands.getstatus
+subprocess.call
+subprocess.Popen
+pty.spawn
+platform.os.system
+__import__
+execfile
+importlib.import_module
+exec
+timeit

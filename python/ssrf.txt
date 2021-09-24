@@ -1,0 +1,9 @@
+requests.get
+requests.post
+requests.put
+requests.options
+requests.delete
+request.urlopen
+urllib.request.urlopen
+urllib.urlopen
+urlopen

@@ -5,3 +5,4 @@ include
 include_once
 fopen
 readfile
+popen

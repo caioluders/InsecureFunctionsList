@@ -1,0 +1,15 @@
+eval
+assert
+create_function
+include
+include_once
+require
+require_once
+unserialize
+shell_exec
+system
+exec
+popen
+passthru
+proc_open
+pcntl_exec

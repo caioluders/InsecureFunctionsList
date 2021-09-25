@@ -1,5 +1,5 @@
 document.write
 document.writeln
-element.innerHTML
-element.outerHTML
-element.insertAdjacentHTML
+innerHTML
+outerHTML
+insertAdjacentHTML

@@ -1,0 +1,5 @@
+file_get_contents
+require
+require_once
+include
+include_once

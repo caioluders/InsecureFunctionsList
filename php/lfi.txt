@@ -3,3 +3,5 @@ require
 require_once
 include
 include_once
+fopen
+readfile

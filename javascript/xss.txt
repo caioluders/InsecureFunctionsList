@@ -1,0 +1,5 @@
+document.write
+document.writeln
+element.innerHTML
+element.outerHTML
+element.insertAdjacentHTML

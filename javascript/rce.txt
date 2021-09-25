@@ -1,0 +1,4 @@
+eval
+setTimeout
+setInterval
+Function

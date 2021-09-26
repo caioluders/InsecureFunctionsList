@@ -1,0 +1,6 @@
+http.Get
+http.Head
+http.Post
+http.PostForm
+http.Client
+http.NewRequest

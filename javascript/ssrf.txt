@@ -1,0 +1,16 @@
+location
+location.host
+location.hostname
+location.href
+location.pathname
+location.search
+location.protocol
+location.assign
+location.replace
+open
+element.srcdoc
+XMLHttpRequest.open
+XMLHttpRequest.send
+jQuery.ajax
+$.ajax
+fetch

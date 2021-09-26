@@ -1,4 +1,10 @@
-eval
-setTimeout
-setInterval
 Function
+crypto.generateCRMFRequest
+eval
+execCommand
+execScript
+msSetImmediate
+range.createContextualFragment
+setImmediate
+setInterval
+setTimeout

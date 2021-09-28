@@ -1,4 +1,4 @@
-Offsetof
-Sizeof
-Slice
-Add
+unsafe.Offsetof
+unsafe.Sizeof
+unsafe.Slice
+unsafe.Add

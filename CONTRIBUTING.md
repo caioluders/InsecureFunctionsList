@@ -1,4 +1,4 @@
-# Insecure Functions Guideline
+# CONTRIBUTING
 The purpose of this guideline is to define what functions should be included in this repository, and how to include them.
 
 ## What is an Insecure Function ?

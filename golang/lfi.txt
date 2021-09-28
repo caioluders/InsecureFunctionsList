@@ -1,7 +1,10 @@
-FileServer
-ServeFile
-ReadFile
-ReadDir
-ReadAll
-Open
+http.FileServer
+http.ServeFile
+os.ReadFile
+os.ReadDir
+ioutil.ReadDir
+ioutil.ReadFile
+io.ReadAll
+ioutil.ReadAll
+os.Open
 Read

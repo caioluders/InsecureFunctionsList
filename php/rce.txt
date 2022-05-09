@@ -2,3 +2,4 @@ shell_exec
 exec
 system
 passthru
+proc_open

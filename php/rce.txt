@@ -1,3 +1,4 @@
 shell_exec
 exec
 system
+passthru
